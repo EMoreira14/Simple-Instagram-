@@ -1,0 +1,30 @@
+body {
+  background-color: lightgray;
+}
+.header {
+  background-color: lightsalmon;
+  width: 100%;
+  text-align: center;
+}
+.post-one {
+  background-color: lightyellow;
+  width: 500px;
+  height: 440px;
+  margin: auto;
+  margin-top: 30px;
+}
+.post-one p{
+    float: left;
+    padding: 10px;
+}
+.post-one span{
+    float: right;
+   margin-bottom: 10px;
+   padding: 10px;
+}
+.post-one img {
+    width: 100%;
+}
+.post-one .caption {
+    padding: 15px;
+}
